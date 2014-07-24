@@ -1,2 +1,2 @@
 this is sample text
-one more line
+new text added in branch a
